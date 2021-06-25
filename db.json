@@ -1,10 +1,85 @@
 {
-"posts":[{
-"id" :1,
-"title":"hello"
-}, 
-{
-"id" :2,
-"title":"welcome"
-}]} 
-
+    "addOrUpdate": [
+        {
+            "id": "JumboLoansPrimary",
+            "title": "Jumbo Loans Primary",
+            "question": "Question related to Jumbo Loans Primary",
+            "answer": "Answer related to Jumbo Loans Primary",
+            "customerRelationship": [
+                "Cards",
+                "Bank",
+                "MRC",
+                "CD"
+            ],
+            "keywords": "jumbo, jumbo loans, primary",
+            "locale": "EN",
+            "documentType": "faq",
+            "documentId": "faq doument id 1"
+        },
+        {
+            "id": "PersonalLoans",
+            "title": "Personal Loans",
+            "question": "Question related to Personal Loans",
+            "answer": "Answer related to Personal Loans",
+            "customerRelationship": [
+                "Cards",
+                "Bank"
+            ],
+            "keywords": "personal, personal loans",
+            "locale": "EN",
+            "documentType": "faq",
+            "documentId": "faq doument id 2"
+        },
+        {
+            "id": "FlexPay",
+            "title": "Citi Flex Pay",
+            "classification": "WebPage",
+            "pageUrl": "",
+            "metadata": "",
+            "isAuthorizationRequired": "N",
+            "customerRelationship": [
+                "All"
+            ],
+            "keywords": "flex loan, flex pay, finance, amazon, credit limit, increase",
+            "locale": "EN",
+            "documentType": "webpage",
+            "documentId": "web page document id 1"
+        },
+        {
+            "id": "EnrollAutopayLink",
+            "title": "Enroll in Autopay",
+            "classification": "Navigate",
+            "pageUrl": "",
+            "metadata": "",
+            "isAuthorizationRequired": "Y",
+            "customerRelationship": [
+                "Cards",
+                "MRC"
+            ],
+            "keywords": "",
+            "locale": "EN",
+            "documentType": "webpage",
+            "documentId": "web page document id 2"
+        },
+        {
+            "id": "MCDvideoTutorial",
+            "title": "Complete a mobile check deposit",
+            "type": "Video",
+            "url": "",
+            "metadata": {
+                "navigateId": "MobileCheckDeposit",
+                "type": "",
+                "iconUrl": "this is an icon url"
+            },
+            "customerRelationship": [
+                "Cards",
+                "Bank",
+                "MRC"
+            ],
+            "keywords": "check deposit, deposit a check, mobile check",
+            "locale": "EN",
+            "documentType": "tutorial",
+            "documentId": "tutorial id 1"
+        }
+    ]
+}
