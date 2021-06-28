@@ -1,5 +1,5 @@
 {
-    "addOrUpdate": [
+    "faqs": [
         {
             "id": "JumboLoansPrimary",
             "title": "Jumbo Loans Primary",
@@ -29,7 +29,9 @@
             "locale": "EN",
             "documentType": "faq",
             "documentId": "faq doument id 2"
-        },
+        }
+    ],
+    "webpages": [
         {
             "id": "FlexPay",
             "title": "Citi Flex Pay",
@@ -60,7 +62,9 @@
             "locale": "EN",
             "documentType": "webpage",
             "documentId": "web page document id 2"
-        },
+        }
+    ],
+    "tutorials": [
         {
             "id": "MCDvideoTutorial",
             "title": "Complete a mobile check deposit",
