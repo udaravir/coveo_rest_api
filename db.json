@@ -34,7 +34,7 @@
             "id": "FlexPay",
             "title": "Citi Flex Pay",
             "classification": "WebPage",
-            "pageUrl": "",
+            "pageUrl": "https://www.citi.com/credit-cards/creditcards/citi.action?ID=flex-loan",
             "metadata": "",
             "isAuthorizationRequired": "N",
             "customerRelationship": [
@@ -49,7 +49,7 @@
             "id": "EnrollAutopayLink",
             "title": "Enroll in Autopay",
             "classification": "Navigate",
-            "pageUrl": "",
+            "pageUrl": "https://online.citi.com/US/JRS/pands/detail.do?ID=BillPay",
             "metadata": "",
             "isAuthorizationRequired": "Y",
             "customerRelationship": [
@@ -65,7 +65,7 @@
             "id": "MCDvideoTutorial",
             "title": "Complete a mobile check deposit",
             "type": "Video",
-            "url": "",
+            "url": "https://www.youtube.com/watch?v=rSkUgdzZpfE",
             "metadata": {
                 "navigateId": "MobileCheckDeposit",
                 "type": "",
