@@ -29,7 +29,7 @@
             "locale": "EN",
             "documentType": "faq",
             "documentId": "faq doument id 2"
-        }
+        },
         {
             "id": "RenewMyCitiBankCD",
             "title": "How do i renew my citibank certificate of deposit (CD)?",
@@ -43,7 +43,7 @@
             "locale": "EN",
             "documentType": "faq",
             "documentId": "faq doument id 2"
-        }
+        },
         {
             "id": "APRFaq",
             "title": "FAQ on APR",
