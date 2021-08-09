@@ -25,7 +25,35 @@
                 "Cards",
                 "Bank"
             ],
-            "keywords": "personal, personal loans",
+            "keywords": "personal, personal loans, APR",
+            "locale": "EN",
+            "documentType": "faq",
+            "documentId": "faq doument id 2"
+        }
+        {
+            "id": "RenewMyCitiBankCD",
+            "title": "How do i renew my citibank certificate of deposit (CD)?",
+            "question": "Question related to CD",
+            "answer": "Answer related to CD",
+            "customerRelationship": [
+                "Cards",
+                "Bank"
+            ],
+            "keywords": "certificate of deposit, renew certificate, primary, certificate",
+            "locale": "EN",
+            "documentType": "faq",
+            "documentId": "faq doument id 2"
+        }
+        {
+            "id": "APRFaq",
+            "title": "FAQ on APR",
+            "question": "Question related to APRFAQ",
+            "answer": "Answer related to APRFAQ",
+            "customerRelationship": [
+                "Cards",
+                "Bank"
+            ],
+            "keywords": "average percentage rate, APR",
             "locale": "EN",
             "documentType": "faq",
             "documentId": "faq doument id 2"
